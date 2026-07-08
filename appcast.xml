@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DynamicNotch</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 08 Jul 2026 12:41:46 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/abhiramsubhagan/dynamic-notch-releases/main/DynamicNotch-1.0.dmg" length="2476402" type="application/octet-stream" sparkle:edSignature="uCx7vbDgrz+hxXLsh+cNtup0cfan4rN3IbFP1WEysPQl1qSp1q4ABbDtsInqD7rnZ+BMYTQRYf9A3iGgBYPoCg=="/>
+        </item>
+    </channel>
+</rss>
