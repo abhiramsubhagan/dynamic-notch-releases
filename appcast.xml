@@ -3,13 +3,13 @@
     <channel>
         <title>DynamicNotch</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Wed, 08 Jul 2026 12:41:46 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Wed, 08 Jul 2026 13:05:58 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/abhiramsubhagan/dynamic-notch-releases/main/DynamicNotch-1.0.dmg" length="2476402" type="application/octet-stream" sparkle:edSignature="uCx7vbDgrz+hxXLsh+cNtup0cfan4rN3IbFP1WEysPQl1qSp1q4ABbDtsInqD7rnZ+BMYTQRYf9A3iGgBYPoCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/abhiramsubhagan/dynamic-notch-releases/main/DynamicNotch-1.1.dmg" length="2476735" type="application/octet-stream" sparkle:edSignature="bBHWjyXv9ybIP6y1lXfXgnLgf6wBm190rvn2oGJTiTp8CiXngBdwL7XL63iwk2czTP0LEoeNFf4TeaUDCQDIDA=="/>
         </item>
     </channel>
 </rss>
