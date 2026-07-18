@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "notes": "Latest release of Dynamic Notch.",
+  "version": "1.2",
+  "notes": "Fixes the notch becoming unresponsive after sleep/lock, widens the click target, and adds a customizable global shortcut.",
   "downloadURL": "https://stardust138.gumroad.com/l/dynamicnotch"
 }
